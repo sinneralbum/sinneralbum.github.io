@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sinneralbum.github.io</id>
     <title>备份画册</title>
-    <updated>2021-07-22T13:48:51.648Z</updated>
+    <updated>2021-07-22T14:04:49.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sinneralbum.github.io"/>
     <link rel="self" href="https://sinneralbum.github.io/atom.xml"/>
@@ -16,17 +16,17 @@
         <link href="https://sinneralbum.github.io/post/guan-yu/">
         </link>
         <updated>2021-07-22T13:35:08.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>&gt;关于这个站</strong></p>
+        <content type="html"><![CDATA[<h2 id="关于这个站">关于这个站</h2>
 <p>欢迎来到备份画册。这里用来堆放一些作品备份。</p>
 <p>作品列表请点击“作品目录”观看。</p>
 <p>涉及作品：elona/undertale/阴阳师/Persona系列 等。 目前主要在更新COC同人作品《SAN值稳定中》。</p>
 <p>由于东西太多太杂，所以缓慢搬运自己的作品中。</p>
-<p><strong>&gt;关于我</strong></p>
+<h2 id="关于我">关于我</h2>
 <p>写文纯属自娱自乐，人设属于原作，OOC属于我。</p>
 <p>不擅长回复评论，但每一条都会认真看，谢谢所有喜欢这里的人。</p>
-<p>lofter：<code>画册</code></p>
-<p>爱发电：画册</p>
-<p>PO18：画册</p>
+<p>lofter：<a href="https://sinneralbum.lofter.com/">画册</a></p>
+<p>爱发电：<a href="https://afdian.net/@album">画册</a></p>
+<p>PO18：<a href="https://www.po18.tw/users/91fc5-2G4kWimRFpbuWSKXS9XVuaooioN1e1pydjRU8WHSWH2A">画册</a> （部分网络可能需要翻墙）</p>
 <p>邮　箱：huayuhun@qq.com</p>
 ]]></content>
     </entry>
