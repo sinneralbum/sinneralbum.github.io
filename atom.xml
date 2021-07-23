@@ -2,19 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sinneralbum.github.io</id>
     <title>备份画册</title>
-    <updated>2021-07-23T05:55:17.297Z</updated>
+    <updated>2021-07-23T07:01:16.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sinneralbum.github.io"/>
     <link rel="self" href="https://sinneralbum.github.io/atom.xml"/>
-    <subtitle>作品备份。lofter：画册。</subtitle>
+    <subtitle>备份画册。</subtitle>
     <logo>https://sinneralbum.github.io/images/avatar.png</logo>
     <icon>https://sinneralbum.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 备份画册</rights>
     <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://sinneralbum.github.io/post/guan-yu/</id>
-        <link href="https://sinneralbum.github.io/post/guan-yu/">
+        <title type="html"><![CDATA[本站说明]]></title>
+        <id>https://sinneralbum.github.io/post/ben-zhan-shuo-ming/</id>
+        <link href="https://sinneralbum.github.io/post/ben-zhan-shuo-ming/">
         </link>
-        <updated>2021-07-22T13:35:08.000Z</updated>
+        <updated>2021-07-23T06:19:43.000Z</updated>
+        <summary type="html"><![CDATA[<!-- more -->
+<p>欢迎来到备份画册。这里用来堆放一些作品备份。</p>
+<p>作品列表请点击“作品目录”观看。</p>
+<p>涉及作品：elona/undertale/阴阳师/Persona系列 等。 目前主要在更新COC同人作品《SAN值稳定中》。</p>
+<p>由于东西太多太杂，所以缓慢搬运自己的作品中。</p>
+]]></summary>
+        <content type="html"><![CDATA[<!-- more -->
+<p>欢迎来到备份画册。这里用来堆放一些作品备份。</p>
+<p>作品列表请点击“作品目录”观看。</p>
+<p>涉及作品：elona/undertale/阴阳师/Persona系列 等。 目前主要在更新COC同人作品《SAN值稳定中》。</p>
+<p>由于东西太多太杂，所以缓慢搬运自己的作品中。</p>
+]]></content>
     </entry>
 </feed>
