@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sinneralbum.github.io</id>
     <title>备份画册</title>
-    <updated>2021-10-22T15:22:08.787Z</updated>
+    <updated>2021-10-22T15:22:37.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sinneralbum.github.io"/>
     <link rel="self" href="https://sinneralbum.github.io/atom.xml"/>
@@ -10,13 +10,6 @@
     <logo>https://sinneralbum.github.io/images/avatar.png</logo>
     <icon>https://sinneralbum.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 备份画册</rights>
-    <entry>
-        <title type="html"><![CDATA[ SAN值稳定中 133]]></title>
-        <id>https://sinneralbum.github.io/post/san-zhi-wen-ding-zhong-133/</id>
-        <link href="https://sinneralbum.github.io/post/san-zhi-wen-ding-zhong-133/">
-        </link>
-        <updated>2021-10-22T15:21:08.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[本站说明]]></title>
         <id>https://sinneralbum.github.io/post/ben-zhan-shuo-ming/</id>
