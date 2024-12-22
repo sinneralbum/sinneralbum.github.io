@@ -1,0 +1,188 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>关于 | 备份画册</title>
+<link rel="shortcut icon" href="https://sinneralbum.github.io/favicon.ico?v=1734870385825">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://sinneralbum.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="关于 | 备份画册 - Atom Feed" href="https://sinneralbum.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="
+写文纯属自娱自乐，人设属于原作，OOC属于我。
+不擅长回复评论，但每一条都会认真看，谢谢所有喜欢这里的人。
+
+其它站点
+lofter：画册
+AO3：sinneralbum
+PO18：画册 （部分网络可能需要翻墙）
+邮　箱：huayuhun..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://sinneralbum.github.io">
+  <img class="avatar" src="https://sinneralbum.github.io/images/avatar.png?v=1734870385825" alt="">
+  </a>
+  <h1 class="site-title">
+    备份画册
+  </h1>
+  <p class="site-description">
+    备份画册。
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="https://sinneralbum.github.io/tag/QkV1mez_7/" class="menu">
+          个人日志
+        </a>
+      
+    
+      
+        <a href="https://sinneralbum.github.io/post/zuo-pin-mu-lu/" class="menu">
+          作品目录
+        </a>
+      
+    
+      
+        <a href="/post/guan-yu" class="menu">
+          关于
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              关于
+            </h2>
+            <div class="post-info">
+              <span>
+                2021-07-22
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <center>
+写文纯属自娱自乐，人设属于原作，OOC属于我。
+<p>不擅长回复评论，但每一条都会认真看，谢谢所有喜欢这里的人。</p>
+<hr>
+<h3 id="其它站点">其它站点</h3>
+<p>lofter：<a href="https://sinneralbum.lofter.com/">画册</a></p>
+<p>AO3：<a href="https://archiveofourown.org/users/sinneralbum/works">sinneralbum</a></p>
+<p>PO18：<a href="https://www.po18.tw/users/91fc5-2G4kWimRFpbuWSKXS9XVuaooioN1e1pydjRU8WHSWH2A">画册</a> （部分网络可能需要翻墙）</p>
+<p>邮　箱：huayuhun@qq.com</p>
+<p>微   博：画架上的空白页</p>
+<hr>
+<h3 id="友情链接">友情链接</h3>
+<figure data-type="image" tabindex="1"><a href="https://sinner.ucoz.com/"><img src="https://sinneralbum.github.io/post-images/1627021941671.jpg" alt="" loading="lazy"></a></figure>
+</center>
+              </div>
+              <div class="toc-container">
+                <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#%E5%85%B6%E5%AE%83%E7%AB%99%E7%82%B9">其它站点</a></li>
+<li><a href="#%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5">友情链接</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://sinneralbum.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sinneralbum.github.io</id>
+    <title>备份画册</title>
+    <updated>2024-12-22T12:26:29.079Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sinneralbum.github.io"/>
+    <link rel="self" href="https://sinneralbum.github.io/atom.xml"/>
+    <subtitle>备份画册。</subtitle>
+    <logo>https://sinneralbum.github.io/images/avatar.png</logo>
+    <icon>https://sinneralbum.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 备份画册</rights>
+    <entry>
+        <title type="html"><![CDATA[本站说明]]></title>
+        <id>https://sinneralbum.github.io/post/ben-zhan-shuo-ming/</id>
+        <link href="https://sinneralbum.github.io/post/ben-zhan-shuo-ming/">
+        </link>
+        <updated>2021-07-23T06:19:43.000Z</updated>
+        <summary type="html"><![CDATA[<!-- more -->
+<center>欢迎来到备份画册。这里用来堆放一些作品备份。
+<p>作品列表请点击“作品目录”观看。</p>
+<p>涉及作品：时空中的绘旅人/elona/undertale/阴阳师/Persona系列 等。</p>
+<p>由于东西太多太杂，所以缓慢搬运自己的作品中。</center></p>
+]]></summary>
+        <content type="html"><![CDATA[<!-- more -->
+<center>欢迎来到备份画册。这里用来堆放一些作品备份。
+<p>作品列表请点击“作品目录”观看。</p>
+<p>涉及作品：时空中的绘旅人/elona/undertale/阴阳师/Persona系列 等。</p>
+<p>由于东西太多太杂，所以缓慢搬运自己的作品中。</center></p>
+]]></content>
+    </entry>
+</feed>
